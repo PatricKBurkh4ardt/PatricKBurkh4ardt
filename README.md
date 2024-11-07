@@ -1,4 +1,6 @@
+Sobre o Estudante de Cibersegurança
 
+Este estudante é apaixonado por segurança digital e busca constantemente expandir seus conhecimentos sobre as ameaças cibernéticas que afetam nosso mundo conectado. Ao longo de sua jornada acadêmica, ele se especializou na compreensão de técnicas de proteção de dados, criptografia e metodologias para prevenir ataques cibernéticos, como invasões, phishing e malware.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
