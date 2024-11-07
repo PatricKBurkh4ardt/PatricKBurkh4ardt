@@ -1,6 +1,17 @@
-Sobre o Estudante de Cibersegurança
+Patrick | Estudante de Cibersegurança & Desenvolvedor
+🔒 Apaixonado por Cibersegurança | 💻 Desenvolvedor Full Stack | 🌐 Entusiasta de Tecnologia
 
-Este estudante é apaixonado por segurança digital e busca constantemente expandir seus conhecimentos sobre as ameaças cibernéticas que afetam nosso mundo conectado. Ao longo de sua jornada acadêmica, ele se especializou na compreensão de técnicas de proteção de dados, criptografia e metodologias para prevenir ataques cibernéticos, como invasões, phishing e malware.
+Atualmente, estou focado em aprimorar minhas habilidades em segurança cibernética, com ênfase em proteção de dados, análise de vulnerabilidades e prevenção de ataques. No meu dia a dia, exploro tanto o lado do back-end quanto do front-end, criando soluções robustas e seguras.
+
+🚀 Tecnologias que utilizo:
+
+Linguagens: JavaScript, Python, C#, TypeScript
+Frameworks e Bibliotecas: React, Node.js, Express
+Ferramentas de Cibersegurança: Kali Linux, Wireshark, Metasploit, Burp Suite
+Versionamento e Colaboração: Git, GitHub
+🔧 Em constante aprendizado: Busco sempre aprimorar minhas habilidades por meio de projetos práticos e cursos especializados em cibersegurança, testes de penetração e segurança de redes.
+
+🎯 Objetivo: Criar soluções inovadoras e seguras para a web, e contribuir para um ambiente digital mais seguro para todos.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
