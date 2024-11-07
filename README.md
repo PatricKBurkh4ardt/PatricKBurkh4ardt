@@ -1,5 +1,5 @@
 Patrick | Estudante de Cibersegurança & Desenvolvedor
-🔒 Apaixonado por Cibersegurança | 💻 Desenvolvedor Full Stack | 🌐 Entusiasta de Tecnologia
+🔒 Apaixonado por Cibersegurança | 💻 Desenvolvedor Full Stack Python | 🌐 Entusiasta de Tecnologia
 
 Atualmente, estou focado em aprimorar minhas habilidades em segurança cibernética, com ênfase em proteção de dados, análise de vulnerabilidades e prevenção de ataques. No meu dia a dia, exploro tanto o lado do back-end quanto do front-end, criando soluções robustas e seguras.
 
