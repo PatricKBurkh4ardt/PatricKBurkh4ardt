@@ -1,24 +1,22 @@
-Claro! Aqui está uma sugestão de biografia para o GitHub de um estudante de cibersegurança:
 
----
-
-👋 Olá! Eu sou Patrick Burkhardt, um estudante apaixonado por **Cibersegurança** e **Tecnologias Emergentes**. Atualmente, estou me aprofundando no mundo da segurança digital, explorando desde técnicas de defesa até vulnerabilidades e exploitations.
-
-🔍 **Interesses:**
-- Análise de vulnerabilidades
-- Pentesting e ethical hacking
-- Criptografia e segurança de redes
-- Ferramentas de segurança (como Wireshark, Metasploit, Burp Suite)
-- Automação e scripts de segurança (Python, Bash, etc.)
-- Resposta a incidentes e forense digital
-
-💻 **Projetos em destaque:**
-- Scanner de Vulnerabilidades Web (Python)
-- Análise de Logs (Python)
-- Criptografia de Arquivos Simples (Python)
-
-📚 Estou sempre em busca de aprender mais e me atualizar com as últimas tendências e práticas de segurança. Acredito que a colaboração e o aprendizado contínuo são essenciais nesse campo, por isso estou sempre aberto a novos desafios e parcerias.
-
-🔐 **Meu objetivo:**
-Desenvolver minhas habilidades práticas e contribuir para a criação de um ambiente digital mais seguro para todos. Se você está interessado em cibersegurança, sinta-se à vontade para explorar meus repositórios, me mandar uma mensagem ou colaborar em projetos!
-
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
