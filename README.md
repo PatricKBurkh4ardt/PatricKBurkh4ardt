@@ -1,11 +1,11 @@
 Patrick | Estudante de Cibersegurança & Desenvolvedor
-🔒 Apaixonado por Cibersegurança | 💻 Desenvolvedor Full Stack Python | 🌐 Entusiasta de Tecnologia
+🔒 Apaixonado por Cibersegurança | 💻 Desenvolvedor Full Stack JAVA -| 🌐 Entusiasta de Tecnologia
 
 Atualmente, estou focado em aprimorar minhas habilidades em segurança cibernética, com ênfase em proteção de dados, análise de vulnerabilidades e prevenção de ataques. No meu dia a dia, exploro tanto o lado do back-end quanto do front-end, criando soluções robustas e seguras.
 
 🚀 Tecnologias que utilizo:
 
-Linguagens: java, Python, , 
+Linguagens: java, Python,
 Frameworks e Bibliotecas: React, Node.js, Express
 Ferramentas de Cibersegurança: Kali Linux, Wireshark, Metasploit, Burp Suite
 Versionamento e Colaboração: Git, GitHub
